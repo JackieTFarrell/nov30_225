@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+}
+
+.left {
+	float: left;
+	width: 50%;
+	background-color: pink
+}
+
+.wrapper {
+
+	width: 900px;
+	margin: 0 auto;
+	
+}
+.right {
+	float: left;
+	width: 50%;
+	background-color: yellow
+
+}
+
+.article {
+	padding: 20px;
+
+}
+
+.facebook-link {
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: tan;
+	padding: 15px;
+
+}
+
+img {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 40%;
+
+}
+
